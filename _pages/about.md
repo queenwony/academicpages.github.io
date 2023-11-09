@@ -7,27 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# HI IM A K-POP FAN
 
-Hello, young tech enthusiasts! 👋
+Hii! 👋
+![image](https://github.com/queenwony/academicpages.github.io/assets/150253599/cba6e3f1-03d4-478b-a855-d907b7c7808d)
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+ 
+ **name:** queenwony
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+ **fav groups:** IVE, LSRFM, NWJNS, (G)-IDLE AND TWICE
 
-## About Mr. Daviddhc20120601
+ **ULTIMATE BIAS:** won-young and mina
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+ i buy albums, merchandise and go to concerts!
 
-🏫 **Grade:** Sixth Grade
+## SOME OF MY BIAS AND BIAS WRECKERS
 
-🖥️ **Subject:** Computer Science
-
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
-
-## What to Expect
-
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
-
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
+ IVE:
+ bias: Won-young
+ bias wrecker: Liz
+ LSRFM:
+ bias: ALL MEMBERS
+ bias wrecker: ALL MEMBERS
+ NWJNS:
+ bias: Haerin
+ bias wrecker: not suree
+ (G)-IDLE:
+ bias: ALL MEMBERS
+ bias wrecker: ALL MEMBERS
+ TWICE:
+ bias: Mina
+ bias wrecker: not suree
 
