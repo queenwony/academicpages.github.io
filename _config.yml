@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "queenwony / IVE, k-pop, jang won-young"
 title_separator          : "-"
-name                     : &name " "
-description              : &description "໋ 
+name                     : &name "dive "
+description              : &description "໋istp-p"
 url                      : https://daviddhc20120601.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daviddhc20120601/academicpages.github.io"
