@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "queenwony / IVE, k-pop, won-young"
+title                    : "queenwony / IVE, k-pop, jang won-young"
 title_separator          : "-"
 name                     : &name "queenwony"
-description              : &description "personal description"
+description              : &description "໋𐑺᮫֗ 🐇 jang vicky ‌֪݁ ଳ
 url                      : https://daviddhc20120601.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daviddhc20120601/academicpages.github.io"
