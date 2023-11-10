@@ -14,7 +14,7 @@ Hii!
  
  **name:** queenwony
 
- **fav groups:** IVE, LSRFM, NWJNS, (G)-IDLE AND TWICE
+ **fav groups:** IVE, LSRFM, NWJNS, (G)I-DLE AND TWICE
 
  **ULTIMATE BIAS:** won-young and mina
 
@@ -31,7 +31,7 @@ Hii!
  NWJNS:
  BIAS: haerin
  BIAS WRECKER: not suree
- (G)-IDLE:
+ (G)I-DLE:
  BIAS: all members
  BIAS WRECKER: all members
  TWICE:
