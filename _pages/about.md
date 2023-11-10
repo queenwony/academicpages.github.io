@@ -14,7 +14,7 @@ Hii!
  
  **name:** queenwony
 
- **fav groups:** IVE, LSRFM, NWJNS, (G)I-DLE AND TWICE
+ **fav groups:** IVE, LSRFM( LE SSERAFIM), NWJNS(NEWJEANS), (G)I-DLE AND TWICE
 
  **ULTIMATE BIAS:** won-young and mina
 
