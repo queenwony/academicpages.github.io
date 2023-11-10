@@ -9,7 +9,7 @@ redirect_from:
 
 # HI IM A K-POP FAN
 Hii! 
-![image](https://github.com/queenwony/academicpages.github.io/assets/150253599/cba6e3f1-03d4-478b-a855-d907b7c7808d)
+![image](https://github.com/queenwony/academicpages.github.io/assets/150253599/d1a0f54d-368b-4dba-9506-845dce8ec786)
 
  
  **name:** queenwony
