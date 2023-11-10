@@ -32,7 +32,7 @@ Hii!
  NWJNS:
  bias: Haerin
  bias wrecker: not suree
- (G)-IDLE :
+ GIDLE:
  bias: ALL MEMBERS
  bias wrecker: ALL MEMBERS
  TWICE:
