@@ -23,26 +23,31 @@ Hii!
 ## SOME OF MY BIAS AND BIAS WRECKERS
 
  # IVE:
+
  BIAS: won-young
 
  BIAS WRECKER: liz
  
  # LSRFM:
+
  BIAS: all members
  
  BIAS WRECKER: all members
  
  # NWJNS:
+
  BIAS: haerin
  
  BIAS WRECKER: not suree
  
  # (G)I-DLE:
+
  BIAS: all members
  
  BIAS WRECKER: all members
  
  # TWICE:
+ 
  BIAS: mina
 
  BIAS WRECKER: not suree
