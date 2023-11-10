@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 # HI IM A K-POP FAN
-
 Hii! 
 ![image](https://github.com/queenwony/academicpages.github.io/assets/150253599/cba6e3f1-03d4-478b-a855-d907b7c7808d)
 
@@ -19,23 +18,23 @@ Hii!
 
  **ULTIMATE BIAS:** won-young and mina
 
- i buy albums, merchandise and go to concerts!
+ i buy k-pop albums, k-pop merchandise and go to k-pop concerts!
 
 ## SOME OF MY BIAS AND BIAS WRECKERS
 
  IVE:
- bias: Won-young
- bias wrecker: Liz
+ BIAS: won-young
+ BIAS WRECKER: liz
  LSRFM:
- bias: ALL MEMBERS
- bias wrecker: ALL MEMBERS
+ BIAS: all members
+ BIAS WRECKER: all members
  NWJNS:
- bias: Haerin
- bias wrecker: not suree
+ BIAS: haerin
+ BIAS WRECKER: not suree
  (G)-IDLE:
- bias: ALL MEMBERS
- bias wrecker: ALL MEMBERS
+ BIAS: all members
+ BIAS WRECKER: all members
  TWICE:
- bias: Mina
- bias wrecker: not suree
+ BIAS: mina
+ BIAS WRECKER: not suree
 
